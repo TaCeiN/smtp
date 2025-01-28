@@ -1,0 +1,9 @@
+
+        user:'[YOUR_EMAIL]'
+        app_password:'[EMAIL_PASSWORD]'
+        topic:'[TOPIC]'
+        body:'<p>[HTML]{name_list}{name_list}{name_list}</p>'
+        signature:'<p>[SIGNATURE_HTML_CODE]<br>
+        </p>'
+        pixel:'https://mc.yandex.ru/pixel/6987978285606056592?rnd=%aw_random%'
+        

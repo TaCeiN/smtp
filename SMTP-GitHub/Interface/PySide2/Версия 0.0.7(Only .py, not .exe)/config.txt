@@ -1,0 +1,9 @@
+user:'[YOUR_EMAIL]' #Логин
+app_password:'[EMAIL_PASSWORD]' #Пароль почты
+topic:'[TOPIC]' #Заголовок
+apply:'[APPEAL]' #Обращение
+first_line:'[FIRST_LINE]' #Первая строка после приветствия
+mail:'[SERVER]' #gmail/mail
+port:'[DOMEN]' # .com для gmail/.ru для mail
+pixel:'https://mc.yandex.ru/pixel/6987978285606056592?rnd=%aw_random%'
+#Если нет обращения, то "ㅤ"
