@@ -1,26 +1,26 @@
 ## Console Version
 
-### Version 0.0.1
+### Version 0.1
 
 - Added functionality for automatic email sending:
     - Support for working with a pre-prepared list of email addresses.
     - Ability to attach a preset file to emails.
 
-### Version 0.0.2
+### Version 0.2
 
 - Added the ability to attach a database in XLSX format to emails.
 
-### Version 0.0.3
+### Version 0.3
 
 - Added the ability to choose the database file format: XLSX or XLS.
 - Implemented the ability to manually enter the name of the database file (XLSX).
 - Added the ability to manually enter the name of the PDF file for attachment.
 
-### Version 0.0.4
+### Version 0.4
 
 - Added support for files in XLS format.
 
-### Version 0.0.5
+### Version 0.5
 
 - Added support for sending emails via the Mail.ru SMTP server.
 
